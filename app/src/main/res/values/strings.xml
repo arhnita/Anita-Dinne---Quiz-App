@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">1. Nigeria gained Independence in?</string>
+    <string name="question_2">2.The First President of Nigeria is?</string>
+    <string name="question_3">3.The colors of the Nigeria Flag consists of?.</string>
+    <string name="question_4">4. In what Year did the First Military Coup take place in Nigeria</string>
+    <string name="question_5">5. Nigeria has the largest ___ diversity in the World?</string>
+    <string name="question_6">6. You must be at least ___ years old to vote</string>
+    <string name="question_7">7. Name this company:</string>
+</resources>
